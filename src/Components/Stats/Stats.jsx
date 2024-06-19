@@ -15,3 +15,5 @@ export default function Stats({ itemsArr, setItemsArr }) {
     </div>
   );
 }
+
+// Stars
