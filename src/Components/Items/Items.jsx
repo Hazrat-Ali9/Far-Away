@@ -62,3 +62,5 @@ function Item({ item, itemsArr, setItemsArr, number }) {
 }
 
 export default Items;
+
+// Items jsx
