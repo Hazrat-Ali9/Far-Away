@@ -1,0 +1,41 @@
+#numberInput {
+    width: 90px !important;
+    background-color: #fde7ab !important;
+    border-radius: 20px;
+    border: none;
+    padding: 8px;
+}
+#itemInput {
+    background-color: #fde7ab !important;
+    border-radius: 20px;
+    border: none;
+    padding: 8px;
+}
+
+#addBtn {
+    padding: 8px 18px;
+    background-color: lightblue;
+    border: none;
+    border-radius: 18px;
+}
+
+
+@media (max-width:900px) {
+    #text {
+        font-size: large !important;
+    }
+}
+@media (max-width:450px) {
+    #text {
+        font-size: medium !important;
+    }
+    #numberInput {
+        width: 60px !important;
+        border-radius: 20px !important;
+    }
+    #itemInput {
+        width: 150px !important;
+        border-radius: 20px !important;
+    }
+
+}

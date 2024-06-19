@@ -1,0 +1,30 @@
+#heading {
+    font-family: cursive;
+    font-weight: 700;
+    font-size: 50px;
+    padding: 0;
+    margin: 0;
+}
+
+@media (max-width: 600px) {
+    #heading {
+        font-size: 30px;
+    }
+    .childDiv {
+        gap: 25px !important;
+    }
+    
+}
+@media (max-width: 400px) {
+    #heading {
+        font-size: 20px !important;
+    }
+    .childDiv {
+        gap: 10px !important;
+    }
+
+    .image {
+        width: 40px !important;
+    }
+    
+}

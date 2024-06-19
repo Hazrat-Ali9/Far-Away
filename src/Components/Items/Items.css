@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+    #items {
+        width: 100% !important;
+    }
+}
+.lineThrough {
+    text-decoration: line-through !important;
+}
